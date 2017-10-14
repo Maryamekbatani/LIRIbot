@@ -1,0 +1,19 @@
+{
+  "name": "liribot",
+  "version": "1.0.0",
+  "description": "Speech Interpretation and Recognition Interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maryamekbatani/LIRIbot.git"
+  },
+  "author": "Maryam Ekbatani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maryamekbatani/LIRIbot/issues"
+  },
+  "homepage": "https://github.com/Maryamekbatani/LIRIbot#readme"
+}
