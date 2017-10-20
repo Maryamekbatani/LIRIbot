@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Maryamekbatani/LIRIbot/issues"
   },
-  "homepage": "https://github.com/Maryamekbatani/LIRIbot#readme"
+  "homepage": "https://github.com/Maryamekbatani/LIRIbot#readme",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "node-spotify-api": "^1.0.7"
+  }
 }
